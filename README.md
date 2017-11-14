@@ -1,6 +1,6 @@
 
 
-AUBERT Jean-Marc B3 - ingésup
+Verlaine Juliette B3 - INGESUP
 
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
